@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "fcd2c9e45506d89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a31f1903d55a8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6246d39e79d651bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4885970ac84907e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68483d395f518980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ac3c5b24322436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5cbd29cf2a753276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Remotely Save",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7fa028cfb7085c6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "5a43b08218b8b6f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7fa787d302fcf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c2f13e710d63f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Иллюзион/Событие Полный пиздец.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Событие Полный пиздец"
+            }
+          },
+          {
+            "id": "015b6cdb9b7bcb57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8b0a8b8d612937fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b115b047b093ddd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "258a7fe0ed63048f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "5a9a46f44e780ab5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "remotely-secure:Remotely Sync": false
+    }
+  },
+  "active": "24ac3c5b24322436",
+  "lastOpenFiles": [
+    "_debug_remotely_save/sync_plans_hist_exported_on_1754940621102.md",
+    "_debug_remotely_save/profiler_results_exported_on_1754939839909.md",
+    "_debug_remotely_save/profiler_results_exported_on_1754939759868.md",
+    "Иллюзион/Событие ГРАААБЯТ.md",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1754940926919.md",
+    "_debug_remotely_save/profiler_results_exported_on_1754940755375.md",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1754940624013.md",
+    "_debug_remotely_save/profiler_results_exported_on_1754939760169.md",
+    "_debug_remotely_save",
+    "Иллюзион/Глава 1 Рыночная Смута и Неожиданные Встречи.md",
+    "Иллюзион/Пояснение.md",
+    "Иллюзион/Глава 2 Тайны Бабушки Зоив\"ы и Дневник Пере\"Купа.md",
+    "Иллюзион/Событие Полный пиздец.md",
+    "Иллюзион/Глава 3 В лавке Пере\"купа.md",
+    "Карты/Подвал.png",
+    "Карты/Средневековый Декор.jpg",
+    "Иллюзион/Событие Похуй.md",
+    "Портреты/Зоя добрая.png",
+    "Портреты/Зара.png",
+    "Карты/Дом Зои.png",
+    "Портреты/JDHM.png",
+    "Шаблоны/Персонаж простой.md",
+    "Портреты/Бард.png",
+    "Портреты/Гудини.png",
+    "Борьба с параллельным импортом на РУСИ/Описание персонажей.md",
+    "Портреты/Биар\"мастер.png",
+    "Портреты",
+    "Шаблоны/Персонаж со свойствами.md",
+    "Карты/Рынок.png",
+    "Карты",
+    "Шаблоны",
+    "Welcome.md",
+    "Иллюзион"
+  ]
+}
